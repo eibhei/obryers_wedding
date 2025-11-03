@@ -3,14 +3,38 @@ layout: post
 title: "IV: The FAQ"
 ---
 
-Hopefully you know who we are already! But in case you're here by accident, or you've forgotten one of us, we are Bee:
+**Where is it?**
 
-![Bee Placeholder](https://kagi.com/proxy/images?c=_m3km2RjA3G0qleowsZXHZb9NEn0fSsEYIHbKzMDyAFb4nUPIanknmQV_g0rmdCIkdPYxtiA9m7fokpg00I3ft65q8Lmseul7J6s5JMC1lVxpNhtCzvnuUPhnVm-3xW-6_QCpJJjL1uVMebpEt_VoA%3D%3D)
+The wedding celebration is in Sawley Village Hall, North Yorkshire. Why Sawley? It’s a stone’s throw away from Bee’s old stomping grounds, and we liked it!  
+\
+**Is there parking?**
 
-and Eibhlín:
+Yes! More detail will be included with the invitations, but there is parking. However, we would encourage guests where possible to share a lift with a friend, both to save space, and the planet.  
+\
+**What should I wear?**
 
-![Bee Placeholder](https://kagi.com/proxy/images?c=_m3km2RjA3G0qleowsZXHZb9NEn0fSsEYIHbKzMDyAFb4nUPIanknmQV_g0rmdCIkdPYxtiA9m7fokpg00I3ft65q8Lmseul7J6s5JMC1lVxpNhtCzvnuUPhnVm-3xW-6_QCpJJjL1uVMebpEt_VoA%3D%3D)
+There is no dress code, however, it’s not a casual event. We’re not asking for black tie or for fancy hats, but think garden party. We encourage everyone to dress brightly, and in whatever makes you feel most like you.  
+\
+**Can I bring my children?**
 
-And together we are...
+Yes, absolutely! Children are both welcome and encouraged. We are parents ourselves, and don’t want anyone to feel they need to find a babysitter to be able to join us. We’re planning a kid friendly event, so please bring them along. That said, if you want to find a babysitter and have an afternoon to yourselves, that’s fine too!  
+\
+**When does it start/end?**
 
-![WYLD STALLYNS](https://kagi.com/proxy/Wyld-Stallyns-Bill-and-Teds-Excellent-Adventure-Inspired-TShirt-by-MoviTees_3D.jpg?c=HtfFJ_bMCRTN9yWiRaUCXzRXAWr8eo_V9f9sdAjx-wJJp8_BcpSmDTGOy-UuKeR3lc6UHYqupk7Om82QlVScsuWsZzJQGFL10gJdRdmwckYiMRQob82p62nhtpkMabcc15O3Tkx3uyeFBy-TvuPG4FgaFJThtXD3sOChQtXl51zKa2ZWVsGd84P9W4hpC4eRx6kudAsoopVz3bpKFmkkHvv40utVycOho3PfElfq2A71LZW5ccPkYfNGNe4b90lMskKI9VHfh6UPuxIM0cV6VNEdfxMK6SPtd2k53jVCmTw%3D)
+At this stage (pre invitations), we don’t have the exact running order of the day finalised. However, it is important to know that this not an all day event. Our rough plan is to start in the early afternoon, and kick you all out at about nine pm. If you want to stay past kick out time, you will be assumed to be helping us tidy up.  
+\
+**Do I need to get you a present?**
+
+If you would like to give us a gift, thank you! It’s really kind of you. We don’t have a registry for physical gifts, but if you would like to contribute to our honeymoon pot, you can add to that [here]. There is no obligation, and we are incredibly grateful to anyone who chooses to do so.  
+\
+**Why can’t I come to Scotland?**
+
+It’s important to us to keep our wedding ceremony an intimate occasion. From our perspective, we don’t want the ceremony itself to be a Big Event - we want it to be a significant, personal milestone. Also, we picked out a rock we want to stand on and there just isn’t enough room on it for everyone.  
+\
+**Will you feed me?**
+
+Yes! There will be nibbles earlier on in the day, and a buffet style meal in the evening. If you have any dietary requirements and/or allergies, please let us know. As mentioned before, we are planning a kid friendly event and are very experienced with fussy eaters, so dietary requirements extends to, “my child only eats mild cheddar cheese and ketchup.”  
+\
+**Is there accommodation?**
+
+Not in the village hall, no. However, Sawley is not far from Ripon, where there are hotels, air bnbs, and regular BnBs available. There are also various Air BnBs in the surrounding villages, and, if you’re feeling adventurous, the nearby village of Kirkby Malzeard has a campsite. 

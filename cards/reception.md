@@ -3,5 +3,14 @@ layout: post
 title: "II: The Wedding"
 ---
 
-On 30th May 2026, Bee & Eibhlín will be celebrating their new marriage! Yippee!
+We’ll level with you here - you’re probably not invited to this bit. We started planning a wedding with all the trappings and trimmings of what you’d expect from a big day, and quickly realised that it simply wasn’t for us. So what is for us, you ask?  
+\
+Eloping! On May 23rd 2026, rain or shine, we will be outdoors in Scotland tying the knot, with only our children, parents, and witnesses.
+
+![](assets/images/bonny_scotland.jpg)
+
+Why Scotland? Well for one thing, it’s gorgeous. For another, we wanted to get married outdoors, and being able to pick any location we liked felt incredibly freeing.  
+\
+So, the summary: you won’t be there for our vows. However, we still want to celebrate with our loved ones, which leads nicely onto the event you _are_ invited to: [The Celebration.]({% link celebration.md %})
+
 
