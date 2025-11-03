@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% include menu.html %}
+
+<article class="post h-entry" itemscope id="main" role="article" aria-label="Content">
+
+  <h2 class="post-title divided p-name" itemprop="name headline">
+    {{ page.title }}
+  </h2>
+
+  <div class="post-content e-content divided" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+</article>

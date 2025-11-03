@@ -1,0 +1,1 @@
+cards/details.md
