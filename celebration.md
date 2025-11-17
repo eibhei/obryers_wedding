@@ -1,1 +1,1 @@
-cards/details.md
+cards/celebration.md

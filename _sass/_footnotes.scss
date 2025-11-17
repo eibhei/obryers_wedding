@@ -1,13 +1,14 @@
 .footnote {
-  border: 1px solid $muted-text-color;
-  border-radius: 1em;
-  color: $text-color;
-  display: inline;
-  font-size: .75em;
+//  border: 1px solid $muted-text-color;
+//  border-radius: 1em;
+//  color: $text-color;
+//  display: inline;
+  font-size: .5em;
   font-weight: 700;
-  padding: 0 .75em;
-  text-decoration: none;
-  margin: 0 .25em;
+  padding: 0 .35em;
+//  text-decoration: none;
+//  margin: 0 .25em;
+  vertical-align: super;
   &:hover,
   &:focus {
     background: $brand-color;
@@ -17,16 +18,19 @@
 
 .footnotes::before {
   content: '';
-  @include divider;
-  margin: 4em auto;
+  margin: 1em;
+//  @include divider;
+//  margin: 4em auto;
 }
 
 .footnotes {
-  margin-bottom: 4em;
+  margin-top: 2em;
+  margin-bottom: 1em;
 }
 
 .footnotes li {
-  margin-bottom: 1em;
+//  margin-bottom: 1em;
+  font-size: 0.65em;
 }
 
 .reversefootnote {

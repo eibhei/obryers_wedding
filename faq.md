@@ -1,1 +1,1 @@
-cards/lovers.md
+cards/faq.md

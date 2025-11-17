@@ -8,7 +8,7 @@ If you’re new here (we’re not entirely sure how you found us if you are), we
 
 Hey, that’s us!  
 \
-And we are getting married! You’ve hopefully ended up here because you have received either a save the date for, or (if you’re visiting from the future) an invitation to our wedding celebration. If you have one of those, you know enough about us not to need us to write out a self-indulgent version of our love story. Suffice to say, it involved meeting in that very modern way: the apps. From there, it progressed as all good relationships do: to discussing the sex appeal of bagpipes, and things only got better from there.  
+And we are getting married! You’ve hopefully ended up here because you have received either a save the date for, or (if you’re visiting from the future) an invitation to our wedding celebration. If you have one of those, you know enough about us not to need us to write out a self-indulgent version of our love story. Suffice to say, it involved meeting in that very modern way: the apps. From there, it progressed as all good relationships do: to discussing the sex appeal of bagpipes. Things only got better from there.  
 \
 In April 2025, Bee offered Eibhlín’s father seven goats in exchange for her hand in marriage. Ever the tough negotiator, he settled on five goats instead, which was lucky, because Bee had already proposed, and Eibhlín had accepted. In May of 2025, Eibhlín did not offer Bee’s father anything for her hand in marriage, but sent her on a scavenger hunt around their home, which also ended in a proposal. Bee said yes, and now you’re reading our wedding website!  
 \
