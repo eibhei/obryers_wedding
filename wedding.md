@@ -1,1 +1,1 @@
-cards/wedding.md
+cards/1.md
